@@ -26,7 +26,7 @@
 
 
 ```bash
-git clone https://github.com/yourusername/caddy-modsecurity.git
+git clone https://github.com/kitche/caddy-modsecurity.git
 cd caddy-modsecurity
 export CGO_ENABLED=1
 xcaddy build --with github.com/kitche/caddy-modsecurity=/path/to/checkout
